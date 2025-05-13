@@ -1,0 +1,1 @@
+# snapshot-token-erc20
